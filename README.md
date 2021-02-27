@@ -1,4 +1,4 @@
-# SD100-assignment-1
+# SD100-projects
 final assignment from SD-100 MITT 
 final project makes use of flexbox 
 the website is responsive 
